@@ -3,7 +3,6 @@
 #include <stdlib.h>
 /**
  * binary_tree_depth - Function that measures the depth of a binary tree
- *
  * @tree: pointer to the root node of the tree to traverse
  * Return: Depth of the binary tree, 0 if none
  */
