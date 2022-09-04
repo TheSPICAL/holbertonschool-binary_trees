@@ -3,7 +3,6 @@
 #include <stdlib.h>
 /**
  * binary_tree_height - Function that measures the height of a binary tree
- *
  * @tree: Pointer to the root node of the tree to traverse
  * Return: The height of the binary tree.
  */
