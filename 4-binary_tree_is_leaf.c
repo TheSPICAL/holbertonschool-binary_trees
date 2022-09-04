@@ -3,7 +3,6 @@
 #include <stdlib.h>
 /**
  * binary_tree_is_leaf - Function that checks if a node is a leaf
- *
  * @node: Pointer to the node to check
  * Return: 1 if node is a leaf, otherwise 0
  */
