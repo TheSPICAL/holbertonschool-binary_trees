@@ -3,7 +3,6 @@
 #include <stdlib.h>
 /**
  * binary_tree_node - Function that creates a node in a binary tree structure
- *
  * @parent: Pointer to the parent node
  * @value: Value to insert in the desired node
  * Return: Pointer to the new node
